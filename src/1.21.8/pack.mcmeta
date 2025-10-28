@@ -1,0 +1,12 @@
+{
+  "pack": {
+    "pack_format": 64,
+    "supported_formats": [46, 64],
+    "min_format": 46,
+    "max_format": [71, 0],
+    "description": [
+      {"text":"Created by ","color":"dark_gray"},
+      {"text":"PumpkinXD","color":"#FFAA00"}
+    ]
+  }
+}
