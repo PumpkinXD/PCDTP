@@ -1,12 +1,11 @@
 {
 	"type": "component_data",
 	"items": "minecraft:diamond_pickaxe",
-	"modleParent":"minecraft:item/handheld",
-	"modelPrefix": "textures/item/skyblock_item/",
+	"modelPrefix": "skyblock_item/diamond_material_pickaxes/",
 	"parameters": {
 		"debug": true,
 		"componentType": "custom_data",
 		"nbtPath": ".id",
-		"transform": ["lowercase","discard_namespace"]
+		"transform": ["lowercase"]
 	}
 }

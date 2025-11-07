@@ -1,7 +1,7 @@
 {
   "parent": "builtin/generated",
   "textures": {
-    "layer0": "dungeonbreaker_cit_texture:item/skyblock_item/dungeonbreaker"
+    "layer0": "dungeonbreaker_cit_texture:item/skyblock_item/diamond_material_pickaxes/dungeonbreaker"
   },
   "display": {
     "thirdperson": {
