@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "dungeonbreaker_cit_texture:item/skyblock_item/diamond_material_pickaxes/dungeonbreaker"
+  },
+  "parent": "minecraft:item/handheld"
+}

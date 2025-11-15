@@ -6,6 +6,13 @@
 		"debug": true,
 		"componentType": "custom_data",
 		"nbtPath": ".id",
-		"transform": ["lowercase"]
+		"transform": [
+			"lowercase",
+			{
+				"regex": "^([^:]+)$",
+				"substitution": "firmskyblock:$1",
+				"optional": true
+			}
+		]
 	}
 }
