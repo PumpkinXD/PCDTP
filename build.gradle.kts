@@ -17,7 +17,7 @@ plugins {
  * taskName : FolderName : packName
  */
 val buildPackTasks: List<Triple<String, String, String>> = listOf(
-Triple("buildModernPack", "1.21.8","${rootProject.name} ${project.properties["packVersion"]} for 1.21.5~10"),
+Triple("buildModernPack", "1.21.8","${rootProject.name} ${project.properties["packVersion"]} for 1.21.2~11"),
 Triple("buildLegacyPack", "1.8.9","${rootProject.name} ${project.properties["packVersion"]} for 1.8.x"),
 )
 
